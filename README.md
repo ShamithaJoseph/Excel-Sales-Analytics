@@ -12,7 +12,7 @@
 
 - **Importance of analyzing sales data:** Evaluate sales trends and keep track of key business indicators.
 
-- **Role of reports:**Analyze optimal customer discounts, support consumer negotiations, and explore business expansion opportunities in high-potential countries.
+- **Role of reports:** Analyze optimal customer discounts, support consumer negotiations, and explore business expansion opportunities in high-potential countries.
 
 
 
